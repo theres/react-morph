@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic);
+html, body {
+	height: 100%;
+	background: #4b53ff;
+	font-family: "Open Sans";
+}
+
+.spinner {
+	width: 40px;
+	border: 0;
+	text-align: right;
+	color: #393939;
+	font-weight: bold;
+	border-bottom: 1px dotted #393939;
+
+    margin: 20px;
+}
